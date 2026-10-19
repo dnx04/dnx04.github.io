@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1039 386" width="1039" height="386" role="img"><title>Đa giác bằng tổng có dấu của các tam giác O v_i v_(i+1)</title><style>
+.bg{fill:#fbfbfd}.ink{fill:#23262d}.line{stroke:#23262d}.faint{stroke:#a3a8b3}
+.blue{fill:#395ab2;fill-opacity:.2}.blueS{stroke:#395ab2}.blueT{fill:#2f4d9e}
+.amber{fill:#d99a1f;fill-opacity:.28}.amberS{stroke:#b37c0c}
+.red{fill:#c0504a;fill-opacity:.2}.redS{stroke:#b5443e}.redT{fill:#a63a35}
+.badge{fill:#23262d}.badgeT{fill:#fbfbfd}
+@media (prefers-color-scheme:dark){
+.bg{fill:#15181d}.ink{fill:#e1e5ec}.line{stroke:#e1e5ec}.faint{stroke:#5f6672}
+.blue{fill:#8fa8ff;fill-opacity:.22}.blueS{stroke:#9db3ff}.blueT{fill:#a9bcff}
+.amber{fill:#f2c46d;fill-opacity:.25}.amberS{stroke:#f2c46d}
+.red{fill:#ff8f85;fill-opacity:.22}.redS{stroke:#ff9a8f}.redT{fill:#ffa59b}
+.badge{fill:#e1e5ec}.badgeT{fill:#15181d}}
+text{font-family:"Times New Roman","Noto Serif",serif;font-size:20px}
+.sans{font-family:"Inter","Segoe UI","Noto Sans",sans-serif;font-size:18px;font-style:normal}
+.it{font-style:italic}
+</style><rect width="1039" height="386" rx="14" class="bg"/><polygon points="164.0,317.6 269.6,250.4 288.8,48.8" class="blue" /><path d="M164.0,317.6 L269.6,250.4 L288.8,48.8 Z" class="blueS" fill="none" stroke-width="1.3" stroke-linejoin="round"/><polygon points="164.0,317.6 288.8,48.8 173.6,144.8" class="blue" /><path d="M164.0,317.6 L288.8,48.8 L173.6,144.8 Z" class="blueS" fill="none" stroke-width="1.3" stroke-linejoin="round"/><polygon points="164.0,317.6 173.6,144.8 58.4,39.2" class="blue" /><path d="M164.0,317.6 L173.6,144.8 L58.4,39.2 Z" class="blueS" fill="none" stroke-width="1.3" stroke-linejoin="round"/><polygon points="164.0,317.6 58.4,39.2 48.8,231.2" class="blue" /><path d="M164.0,317.6 L58.4,39.2 L48.8,231.2 Z" class="blueS" fill="none" stroke-width="1.3" stroke-linejoin="round"/><path d="M48.8,231.2 L269.6,250.4 L288.8,48.8 L173.6,144.8 L58.4,39.2 Z" class="line" fill="none" stroke-width="2" stroke-linejoin="round" stroke-dasharray="5 4" stroke-opacity=".7"/><circle cx="164.0" cy="317.6" r="3.5" class="ink"/><text x="150.0" y="323.6" text-anchor="middle" class="ink it">O</text><text x="336.8" y="185.6" text-anchor="middle" class="ink sans" style="font-size:34px">−</text><polygon points="519.2,317.6 404.0,231.2 624.8,250.4" class="red" /><path d="M519.2,317.6 L404.0,231.2 L624.8,250.4 Z" class="redS" fill="none" stroke-width="1.3" stroke-linejoin="round"/><path d="M404.0,231.2 L624.8,250.4 L644.0,48.8 L528.8,144.8 L413.6,39.2 Z" class="line" fill="none" stroke-width="2" stroke-linejoin="round" stroke-dasharray="5 4" stroke-opacity=".7"/><circle cx="519.2" cy="317.6" r="3.5" class="ink"/><text x="505.2" y="323.6" text-anchor="middle" class="ink it">O</text><text x="692.0" y="185.6" text-anchor="middle" class="ink sans" style="font-size:34px">=</text><polygon points="759.2,231.2 980.0,250.4 999.2,48.8 884.0,144.8 768.8,39.2" class="blue" /><path d="M759.2,231.2 L980.0,250.4 L999.2,48.8 L884.0,144.8 L768.8,39.2 Z" class="line" fill="none" stroke-width="2" stroke-linejoin="round"/><text x="168.8" y="357.6" text-anchor="middle" class="blueT sans">các tam giác dương</text><text x="524.0" y="357.6" text-anchor="middle" class="redT sans">các tam giác âm</text><text x="879.2" y="357.6" text-anchor="middle" class="ink sans">đa giác</text></svg>
